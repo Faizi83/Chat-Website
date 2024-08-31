@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sami\\Desktop\\Chatting App\\Dotnet Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5AE1AE5-BA91-47F8-917D-539A9DCAF673}|chatsystem\\chatsystem.csproj|c:\\users\\sami\\desktop\\chatting app\\dotnet backend\\chatsystem\\controllers\\workingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5AE1AE5-BA91-47F8-917D-539A9DCAF673}|chatsystem\\chatsystem.csproj|solutionrelative:chatsystem\\controllers\\workingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5AE1AE5-BA91-47F8-917D-539A9DCAF673}|chatsystem\\chatsystem.csproj|c:\\users\\sami\\desktop\\chatting app\\dotnet backend\\chatsystem\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5AE1AE5-BA91-47F8-917D-539A9DCAF673}|chatsystem\\chatsystem.csproj|solutionrelative:chatsystem\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5AE1AE5-BA91-47F8-917D-539A9DCAF673}|chatsystem\\chatsystem.csproj|c:\\users\\sami\\desktop\\chatting app\\dotnet backend\\chatsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5AE1AE5-BA91-47F8-917D-539A9DCAF673}|chatsystem\\chatsystem.csproj|solutionrelative:chatsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5AE1AE5-BA91-47F8-917D-539A9DCAF673}|chatsystem\\chatsystem.csproj|c:\\users\\sami\\desktop\\chatting app\\dotnet backend\\chatsystem\\database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5AE1AE5-BA91-47F8-917D-539A9DCAF673}|chatsystem\\chatsystem.csproj|solutionrelative:chatsystem\\database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5AE1AE5-BA91-47F8-917D-539A9DCAF673}|chatsystem\\chatsystem.csproj|c:\\users\\sami\\desktop\\chatting app\\dotnet backend\\chatsystem\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5AE1AE5-BA91-47F8-917D-539A9DCAF673}|chatsystem\\chatsystem.csproj|solutionrelative:chatsystem\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5AE1AE5-BA91-47F8-917D-539A9DCAF673}|chatsystem\\chatsystem.csproj|c:\\users\\sami\\desktop\\chatting app\\dotnet backend\\chatsystem\\models\\updateprofilemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5AE1AE5-BA91-47F8-917D-539A9DCAF673}|chatsystem\\chatsystem.csproj|solutionrelative:chatsystem\\models\\updateprofilemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5AE1AE5-BA91-47F8-917D-539A9DCAF673}|chatsystem\\chatsystem.csproj|c:\\users\\sami\\desktop\\chatting app\\dotnet backend\\chatsystem\\models\\messagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5AE1AE5-BA91-47F8-917D-539A9DCAF673}|chatsystem\\chatsystem.csproj|solutionrelative:chatsystem\\models\\messagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5AE1AE5-BA91-47F8-917D-539A9DCAF673}|chatsystem\\chatsystem.csproj|c:\\users\\sami\\desktop\\chatting app\\dotnet backend\\chatsystem\\chatsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A5AE1AE5-BA91-47F8-917D-539A9DCAF673}|chatsystem\\chatsystem.csproj|solutionrelative:chatsystem\\chatsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5AE1AE5-BA91-47F8-917D-539A9DCAF673}|chatsystem\\chatsystem.csproj|c:\\users\\sami\\desktop\\chatting app\\dotnet backend\\chatsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A5AE1AE5-BA91-47F8-917D-539A9DCAF673}|chatsystem\\chatsystem.csproj|solutionrelative:chatsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MessageDto.cs",
+              "DocumentMoniker": "C:\\Users\\Sami\\Desktop\\Chatting App\\Dotnet Backend\\chatsystem\\Models\\MessageDto.cs",
+              "RelativeDocumentMoniker": "chatsystem\\Models\\MessageDto.cs",
+              "ToolTip": "C:\\Users\\Sami\\Desktop\\Chatting App\\Dotnet Backend\\chatsystem\\Models\\MessageDto.cs",
+              "RelativeToolTip": "chatsystem\\Models\\MessageDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T23:51:58.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\Sami\\Desktop\\Chatting App\\Dotnet Backend\\chatsystem\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "chatsystem\\Hubs\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\Sami\\Desktop\\Chatting App\\Dotnet Backend\\chatsystem\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "chatsystem\\Hubs\\ChatHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T23:49:01.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateProfileModel.cs",
+              "DocumentMoniker": "C:\\Users\\Sami\\Desktop\\Chatting App\\Dotnet Backend\\chatsystem\\Models\\UpdateProfileModel.cs",
+              "RelativeDocumentMoniker": "chatsystem\\Models\\UpdateProfileModel.cs",
+              "ToolTip": "C:\\Users\\Sami\\Desktop\\Chatting App\\Dotnet Backend\\chatsystem\\Models\\UpdateProfileModel.cs",
+              "RelativeToolTip": "chatsystem\\Models\\UpdateProfileModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T18:14:53.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorkingController.cs",
+              "DocumentMoniker": "C:\\Users\\Sami\\Desktop\\Chatting App\\Dotnet Backend\\chatsystem\\Controllers\\WorkingController.cs",
+              "RelativeDocumentMoniker": "chatsystem\\Controllers\\WorkingController.cs",
+              "ToolTip": "C:\\Users\\Sami\\Desktop\\Chatting App\\Dotnet Backend\\chatsystem\\Controllers\\WorkingController.cs",
+              "RelativeToolTip": "chatsystem\\Controllers\\WorkingController.cs",
+              "ViewState": "AQIAAA8BAAAAAAAAAAAQwBIBAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T22:19:54.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\Sami\\Desktop\\Chatting App\\Dotnet Backend\\chatsystem\\Models\\Register.cs",
+              "RelativeDocumentMoniker": "chatsystem\\Models\\Register.cs",
+              "ToolTip": "C:\\Users\\Sami\\Desktop\\Chatting App\\Dotnet Backend\\chatsystem\\Models\\Register.cs",
+              "RelativeToolTip": "chatsystem\\Models\\Register.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T23:19:35.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sami\\Desktop\\Chatting App\\Dotnet Backend\\chatsystem\\Program.cs",
+              "RelativeDocumentMoniker": "chatsystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Sami\\Desktop\\Chatting App\\Dotnet Backend\\chatsystem\\Program.cs",
+              "RelativeToolTip": "chatsystem\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T23:07:55.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sami\\Desktop\\Chatting App\\Dotnet Backend\\chatsystem\\appsettings.json",
+              "RelativeDocumentMoniker": "chatsystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sami\\Desktop\\Chatting App\\Dotnet Backend\\chatsystem\\appsettings.json",
+              "RelativeToolTip": "chatsystem\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-22T23:07:15.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sami\\Desktop\\Chatting App\\Dotnet Backend\\chatsystem\\Database\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "chatsystem\\Database\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Sami\\Desktop\\Chatting App\\Dotnet Backend\\chatsystem\\Database\\ApplicationDbContext.cs",
+              "RelativeToolTip": "chatsystem\\Database\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T23:05:47.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "chatsystem.csproj",
+              "DocumentMoniker": "C:\\Users\\Sami\\Desktop\\Chatting App\\Dotnet Backend\\chatsystem\\chatsystem.csproj",
+              "RelativeDocumentMoniker": "chatsystem\\chatsystem.csproj",
+              "ToolTip": "C:\\Users\\Sami\\Desktop\\Chatting App\\Dotnet Backend\\chatsystem\\chatsystem.csproj",
+              "RelativeToolTip": "chatsystem\\chatsystem.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-22T22:23:10.378Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
